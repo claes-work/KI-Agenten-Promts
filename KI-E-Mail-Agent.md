@@ -1,7 +1,6 @@
-# KI-E-Mail-Agent 
-So erstellst du deinen eigenen KI-E-Mail-Agenten mit n8n (No-Code, Tutorial)
+# So erstellst du deinen eigenen KI-E-Mail-Agenten mit n8n (No-Code, Tutorial)
 
-> Folgende Anpassungen musst du och machen
+> Folgende Anpassungen musst du noch machen
 
 ### Query aktualisieren
 
